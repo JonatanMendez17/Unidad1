@@ -1,0 +1,1 @@
+# Ejercicio 12: Escribir un programa que pida el promedio y la asistencia de un estudiante, y determine si califica para una beca. Se otorga la beca solo si el promedio es igual o mayor a 8.5 y la asistencia igual o mayor al 90%.
