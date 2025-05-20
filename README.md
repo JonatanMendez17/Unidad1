@@ -1,4 +1,4 @@
-# 📚 Ejercicios de Programación – Curso de Desarrollo Web
+# 📚 Ejercicios de Programación – Curso Desarrollo Web
 
 Bienvenido/a al repositorio oficial de ejercicios del curso. Acá vas a encontrar prácticas organizadas por módulos, pensadas para reforzar los contenidos vistos en clase y ayudarte a desarrollar habilidades sólidas en programación y bases de datos.
 
