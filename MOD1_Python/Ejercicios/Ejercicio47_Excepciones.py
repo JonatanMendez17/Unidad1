@@ -1,0 +1,1 @@
+# Ejercicio 47: Escribí un programa que le pida al usuario que ingrese un número, lo convierta a entero y lo divida por 2. Si el usuario no ingresa un número válido, el programa debe mostrar un mensaje apropiado.
