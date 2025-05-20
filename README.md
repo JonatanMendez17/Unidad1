@@ -15,7 +15,7 @@ Bienvenido/a al repositorio oficial de ejercicios del curso. Acá vas a encontra
 
 ## 🧑‍🎓 Módulos
 
-### 🔹 Módulo 1 – Python
+### 🐍 Módulo 1 – Python
 Aprenderás los fundamentos de la programación con Python:
 
 - Variables y tipos de datos
@@ -24,7 +24,7 @@ Aprenderás los fundamentos de la programación con Python:
 - Funciones
 - Listas y estructuras básicas
 
-### 🔸 Módulo 2 – JavaScript
+### 🌐 Módulo 2 – JavaScript
 Entramos en el mundo del desarrollo web con JavaScript:
 
 - Manipulación del DOM
@@ -32,7 +32,7 @@ Entramos en el mundo del desarrollo web con JavaScript:
 - Variables, funciones y arrays
 - Lógica de scripts aplicada a la web
 
-### 🔺 Módulo 3 – Base de Datos
+### 🗄️ Módulo 3 – Base de Datos
 Bases sólidas en almacenamiento y consulta de datos:
 
 - Modelo relacional y diseño de tablas
@@ -41,10 +41,3 @@ Bases sólidas en almacenamiento y consulta de datos:
 - Casos prácticos con datasets simples
 
 
----
-
-## 🚀 Cómo usar este repositorio
-
-1. Cloná este repositorio o descargalo en tu máquina:
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
